@@ -1,21 +1,20 @@
-# منصة أتمتة DevOps وإدارة البنية التحتية
-**DevOps Automation & Infrastructure Management** · التصنيف: هندسة برمجيات
+# DevOps Automation & Infrastructure Management Platform
+**DevOps Automation & Infrastructure Management** · Category: Software Engineering
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-منصة IaC باستخدام Terraform + Ansible للتزويد السحابي التلقائي.
+## Project Overview
+An IaC platform using Terraform + Ansible for automated cloud provisioning.
 
-## أبرز النقاط
-- Infrastructure as Code على AWS بـ Terraform
-- Ansible Playbooks لإعداد الخوادم
-- خفض وقت النشر من ساعتين إلى 15 دقيقة
+## Highlights
+- Infrastructure as Code on AWS with Terraform
+- Ansible Playbooks for server setup
+- Reduced deployment time from 2 hours to 15 minutes
 
-## الدور
-مهندس برمجيات: تصميم المعمارية وبناء المكونات الأساسية والنشر والأتمتة.
+## Role
+Software Engineer: architecture design, building core components, deployment, and automation.
 
-## التقنيات المستخدمة
+## Technologies used
 Terraform, Ansible, Jenkins, Docker, Kubernetes, AWS, Prometheus, Grafana
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

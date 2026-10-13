@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — منصة أتمتة DevOps وإدارة البنية التحتية
+# 🛠️ Technologies Used — DevOps Automation & Infrastructure Management Platform
 
 - Terraform
 - Ansible
